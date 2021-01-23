@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "triny-bot-txdq",
+  "private_key_id": "74c2336ea38c6729faa20f2b73013a2eeba2f121",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCyvejOfP83XbUh\n62iEs1SLDaHMbZXKeyt+i3Cj6Vwpeo5jobbKBF10EV2jfOc1l0A8hFS/kqiaZWid\nHQAwROf1ZujYegSY+3V6L1i/w2LAagIMwkNhxLhb2bx5MGpR1zWk9ZJ1fqVh+BKf\nXx/Kp/8a2MV25adsEPMD0uWQOWmGBPEySzgQ50cgtS/9F5OK+D5DWzaIcGvADv9m\nMuMibnU+K7N3xyv+goHOJpw2Ev/c5Ap9b0C2qIWiXe5zSp0Lxhjctb3o3qlfKjv9\ntmazhtHg2YFUu/g0v1dUVNBNqDYE2f70Y2fEvPRCkgxBdShoh6+bn3YeeyF3n2xe\nP93QyuVLAgMBAAECggEACWB669Sh41eVDr3I6QFEnUDhuckPJr6vovIrJOYzcaRr\nMnqqDYINUKJiluOQ3ssonj26kz92sEoQPJtoLNNIlr0UPqfadH4b0euiJixyLBiQ\nZl2NZ5eIeZ6vS218F/87lYPuiYYGpHn9QoNQHMBG2ubMjfa+G3MhYWES4WFc3rnU\n0b1xdblqzsB+RlbF6xJjXzfYK+i9Ha0W6Byau1FzGtch2dmxq3HgSmJAdQerGsya\nCzZ8/+0jk5imBS6QsDL4e1sZJQE9yDzT/uJOQ0bpBt8qMsKgZ3VCPlz8mdELpGa0\n/UygPSo7KAt6PM8VH+RprEzCP4mDtOGFmNbHqKr4iQKBgQDzJ4DSKaE2uPH1EvsR\n0drJC9JfwT8vrBg/FsjhkM3eHBH86mOLKLZmAd2tkDnqXE2Bus38X+vZXNwVQO2R\neDL3s8l4Mi186z7Ok5MUgcbks7nRkejq8+xslZbBs5ejBF8BP3L0Muifcbjws4cv\na9Fjs3uRxTMeN7+NLMkCgflOMwKBgQC8L0VvcbIvR1PwzWVn7zHXeTjAOGKfOFJ4\n1CriJSnH3EML3LNIpkvINHz2LVVAHjYbDNtBWC27fQt8auqtYzdYLRoDTYLl2+6B\n708hM3yTzbgZtTnpwIC0s1kKSlRutOwn19R3dQXvToD4kRmeT92uTASjPdDdzdZZ\nn3Fp8HvEiQKBgQDUxJVp0Xm7S7yVieVeo3ZCBHEyzwO+cGXLFuHy12X9XCy1VliC\nlb59plZXIOQ82kYMJe1HUJwtWJ9Qjb8UUsyuiYja/3VkYOlVlDbYc/MZftcztezN\nY2JXZdJEbyVaRWHo0p+BZea+VqHRJhc9/Kd+CbkwRhHD+F5KZ40A/8CqlwKBgQCw\n5abZ2gDr3JsVk56tkvZBXRxx5Q8gKOut1ZPyPYkG7RDBh9eohVpbequ1Jmwq97tY\ntj8tL9zdj/BKJp8wGkIeS1dWn3ha5uFPl0vFJAcJUaqrz+X+zAyw0J70w2aXIs+T\nrJl3KbRIfn1SK+PvI5h5jdAWO7epqSLD4NPWCE/wMQKBgQCrhwMn7cN3ANBaE6QY\nQzbNGnMJrq8Qqq58WDtvuzfMgXsiMY4eCm9SX+94lqqm+yS4bXFppAXdDu+7FNre\nId8iezYEh6DWmNUjKg33ZyBUTOnyIovkLIHGQYOsGHiVqMftQcniwx/He6YhAeig\nHT8RzdiUv7WXzXG8079TmaOgeg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trinybot@triny-bot-txdq.iam.gserviceaccount.com",
+  "client_id": "112523434054668704084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trinybot%40triny-bot-txdq.iam.gserviceaccount.com"
+}
